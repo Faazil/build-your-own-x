@@ -1,4 +1,4 @@
-[![Banner](https://dribbble.com/shots/4231148-Technology-Background-Gif)(https://codecrafters.io/github-banner)
+[![Banner](https://dribbble.com/shots/4231148-Technology-Background-Gif)](https://codecrafters.io/github-banner)
 
 ## Build your own &lt;insert-technology-here&gt;
 
